@@ -89,7 +89,7 @@ function Dashboard() {
   });
   const [formData, setFormData] = useState({
     reading_date: today,
-    time_slot: TIME_SLOTS[0],
+    time_slot: TIME_SLOTS[0].value,
     value: "",
   });
   const [editingId, setEditingId] = useState(null);
