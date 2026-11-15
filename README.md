@@ -134,5 +134,4 @@ Reading and report routes require an `Authorization: Bearer <token>` header.
   PostgreSQL database.
 - Add pagination for long reading histories, deployment configuration, and
   production-grade session handling and rate limiting.
-- Add a short walkthrough recording and publish the repository with regular,
-  focused commits.
+- Add charts for glucose trends and improve accessibility across the UI.

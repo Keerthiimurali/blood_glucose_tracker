@@ -128,6 +128,7 @@
 .report-date input {
   background: #fff;
   border: 1px solid #dce6e0;
+  box-sizing: border-box;
   border-radius: 8px;
   color: #25382f;
   font: inherit;
