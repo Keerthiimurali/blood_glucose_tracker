@@ -1,0 +1,14 @@
+# Dependencies and generated output
+**/node_modules/
+client/dist/
+client/dist-ssr/
+
+# Local environment files
+**/.env
+!**/.env.example
+
+# Logs and local editor/system files
+*.log
+**/*.local
+.DS_Store
+Thumbs.db
